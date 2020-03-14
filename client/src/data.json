@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "power",
+        "power": [
+            "main",
+            "about",
+            "test",
+            "dsa",
+            "htrho",
+            "dsogpjds"
+        ],
+        "link": [
+            "/",
+            "https://shdkej.com/about",
+            "/api"
+        ]
+    },
+    {
+        "id":2,
+        "title": "manage",
+        "manage": [
+            "sihtoa",
+            "sdfhoiasd"
+        ],
+        "link": [
+        ]
+    },
+    {
+        "id":3,
+        "title": "manage"
+    },
+    {
+        "id":4,
+        "title": "manage"
+    },
+    {
+        "id":5,
+        "title": "manage"
+    },
+    {
+        "id":6,
+        "title": "manage"
+    },
+    {
+        "id":7,
+        "title": "manage"
+    },
+    {
+        "id":8,
+        "title": "manage"
+    },
+    {
+        "id":9,
+        "title": "manage"
+    }
+]

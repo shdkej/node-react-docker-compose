@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import Square from './Square.js';
+import Board from './Board.js';
 //import './App.scss';
 
 class App extends Component {
@@ -41,9 +40,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Goal</h1>
         </header>
-        <Square/>
+        <Board/>
       </div>
     );
   }

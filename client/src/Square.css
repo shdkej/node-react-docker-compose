@@ -1,7 +1,25 @@
-button {
-  margin: 10px;
-  padding: 10px;
-  font-family: sans-serif;
-  width: 30%;
-  height: 30%;
+.square {
+    font-family: sans-serif;
+    width: 30vw;
+    height: 30vh;
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 1vw;
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    font-size: 2em;
 }
+
+.mainSquare {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+}
+
